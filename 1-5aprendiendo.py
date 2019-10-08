@@ -103,4 +103,3 @@ def mensaje():             #declaracion de la funcion
 mensaje()                   #llamada a la funcion con la que en consola se imprime los tres mensajes
 
 
-
